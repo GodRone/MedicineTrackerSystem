@@ -28,7 +28,7 @@ Host: 127.0.0.1
 Connection: Keep-alive
 ```
 
-![image-20231012000348639](Medicine Tracker System_XSS.assets/image-20231012000348639.png)
+![image-20231012000348639](https://github.com/GodRone/MedicineTrackerSystem/blob/main/Medicine%20Tracker%20System_XSS.assets/image-20231012000348639.png)
 
 
 
